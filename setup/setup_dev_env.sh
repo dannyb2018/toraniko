@@ -1,3 +1,4 @@
+rm -rf ../.venv
 python3 -m venv ../.venv
-#source ../../../../.venv/bin/activate
-#pip install -r ../build/talos/sh/requirements.txt
+source ../.venv/bin/activate
+pip install -r ../dev-requirements.txt
