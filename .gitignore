@@ -1,1 +1,6 @@
 .venv
+toraniko.egg-info
+toraniko/__pycache__
+toraniko/tests/__pycache__
+build
+dist
