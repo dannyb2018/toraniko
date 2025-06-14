@@ -4,3 +4,5 @@ toraniko/__pycache__
 toraniko/tests/__pycache__
 build
 dist
+rust/target
+rust/Cargo.lock
